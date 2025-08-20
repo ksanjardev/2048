@@ -25,7 +25,7 @@ Embark on a stellar journey with **2048 Galaxy**, a captivating Android renditio
 ---
 
 ## 📱 Download
-👉 [Download APK](path_to_your_apk.apk)  
+👉 [Download APK](https://github.com/ksanjardev/2048/raw/master/app-debug.apk)  
 
 ---
 
