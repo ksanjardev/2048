@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="info">I, <b>Sanjar Karimov</b>, developed 2048 game as part of a <b>homework assignment</b>
+        in Bootcamp 9 at GITA Programmers Academy. If you have any questions or suggestions feel free to ask!</string>
+</resources>
