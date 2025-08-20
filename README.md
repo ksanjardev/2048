@@ -20,7 +20,7 @@ Embark on a stellar journey with **2048 Galaxy**, a captivating Android renditio
 ---
 
 ## 🖼️ Screenshots
-<img src="path_to_image1.png" width="250"/> <img src="path_to_image2.png" width="250"/>  
+<img src="game_home.jpg" width="250"/> <img src="game_play.jpg" width="250"/> <img src="game_about.jpg" width="250"/>  
 
 ---
 
@@ -39,7 +39,7 @@ Embark on a stellar journey with **2048 Galaxy**, a captivating Android renditio
 ---
 
 ## 🏁 Getting Started
-1. Clone the repository: `git clone <repo-url>`  
+1. Clone the repository: `git clone https://github.com/ksanjardev/2048.git`  
 2. Open the project in Android Studio.  
 3. Ensure music files are placed in `app/src/main/res/raw/`.  
 4. Build and run: Use the `Run` button or `gradlew build` to generate the APK.  
