@@ -15,7 +15,7 @@ Embark on a stellar journey with **2048 Galaxy**, a captivating Android renditio
 ---
 
 ## 🎥 Demo
-![Demo GIF](path_to_your_gif.gif)  
+![Video presentation](game_video.gif)  
 
 ---
 
